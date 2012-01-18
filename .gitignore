@@ -1,0 +1,9 @@
+# SBT stuff
+target/
+
+# vim stuff
+.*.swp
+.*.swo
+
+# ctags stuff
+tags
